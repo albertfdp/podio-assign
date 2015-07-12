@@ -1,0 +1,20 @@
+{
+  "name": "podio-assign",
+  "version": "0.1.0",
+  "description": "a library for cleaning up the data when using podio-js",
+  "main": "src/index.js",
+  "scripts": {},
+  "keywords": [
+    "podio",
+    "functional",
+    "lodash",
+    "es6"
+  ],
+  "author": "Albert Fernández <albert@nandez.cat>",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^3.10.0",
+    "object-assign": "^3.0.0",
+    "podio-js": "git://github.com/podio/podio-js.git"
+  }
+}
