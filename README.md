@@ -6,7 +6,7 @@ A wrapper for [podio-js](https://github.com/podio/podio-js) which cleans up the 
 
 This library still is in work in progress.
 
-## A quick example
+## The problem
 
 Imagine you have a Podio item which looks like this:
 
@@ -42,3 +42,9 @@ When, you actually want something like that, right?
     ...
   }
 ```
+
+## How it works
+
+You can use `podio-assigns` to fetch the data from Podio, and get back a hash with the `external_id` from each Podio field as a key.
+
+To simplify this library, some corners have been cut, for instance what is the data that should be returned. Only the value? also the last modification? This is a `WIP` library, so expect breaking changes on the API when decisions on the previous issue are taken.
