@@ -28,7 +28,7 @@ Then, you query the API using `podio-js`, and you get something like this:
 
 >  (shortened for simplicity, it more then 400 lines!!)
 
-![](http://gph.is/1wt78oM)
+![](http://i.giphy.com/jg8ZYsmN3ywJq.gif)
 
 When, you actually want something like that, right?
 
