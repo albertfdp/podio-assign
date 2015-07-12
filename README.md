@@ -2,6 +2,10 @@
 
 A wrapper for [podio-js](https://github.com/podio/podio-js) which cleans up the returned data from `Podio API` so you can start working on the actual data model, and forget about how `podio` stores it.
 
+## Disclaimer
+
+This library still is in work in progress.
+
 ## A quick example
 
 Imagine you have a Podio item which looks like this:
